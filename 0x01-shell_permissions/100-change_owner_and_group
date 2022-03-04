@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chown vincent:staff
+#!Bin/bash[D[D[D[D[D[D[b[D/bin/bash
+sudo chown -R vincent:staff *
